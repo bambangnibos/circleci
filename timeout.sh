@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "mulai menghitung waktu ssh berjalan" && sleep 60
+echo "mulai nambang" && sleep 60
 echo "1 menit" && sleep 60
 echo "2 menit" && sleep 60
 echo "3 menit" && sleep 60
